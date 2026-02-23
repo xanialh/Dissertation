@@ -1,0 +1,7 @@
+openai-whisper
+datasets
+soundfile
+librosa
+jiwer
+numpy
+torch
